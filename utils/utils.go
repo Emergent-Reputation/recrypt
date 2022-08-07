@@ -5,7 +5,7 @@ import (
 	"crypto/ecdsa"
 	"crypto/elliptic"
 	"encoding/hex"
-	"goRecrypt/curve"
+	"github.com/ckartik/recrypt/curve"
 	"golang.org/x/crypto/sha3"
 	"math/big"
 )

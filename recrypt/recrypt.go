@@ -7,9 +7,9 @@ import (
 	"encoding/gob"
 	"encoding/hex"
 	"fmt"
-	"goRecrypt/curve"
-	"goRecrypt/math"
-	"goRecrypt/utils"
+	"github.com/ckartik/recrypt/curve"
+	"github.com/ckartik/recrypt/math"
+	"github.com/ckartik/recrypt/utils"
 	"math/big"
 )
 

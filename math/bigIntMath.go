@@ -1,7 +1,7 @@
 package math
 
 import (
-	"goRecrypt/curve"
+	"github.com/ckartik/recrypt/curve"
 	"math/big"
 )
 
